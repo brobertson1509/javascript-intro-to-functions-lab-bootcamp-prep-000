@@ -27,4 +27,4 @@ function sayHiToGrandma(string) {
 } else if (string === mixedcase) {console.log("I love you, too.")
 }
 }
-sayHiToGrandma(lowercase)
+sayHiToGrandma()
